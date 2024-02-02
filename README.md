@@ -8,3 +8,9 @@
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=LeoGomes0&show_icons=true&count_private=true&hide_border=true&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=0d1117" alt="Caroline Barbosa github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeoGomes0&layout=compact&hide_border=true&title_color=FFFFFF&text_color=FFFFFF&bg_color=0d1117" />
 </div>
+
+<div align="center"> 
+<a href="https://instagram.com/leogomes.11" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
+<a href = "mailto:leonardobrgomes@outlook.com"> <img src="https://img.shields.io/badge/-Outlook-%23333?style=for-the-badge&logo=outlook&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/leonardo-nascimento/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
+ </div>
